@@ -40,7 +40,7 @@ I just got here and i don't have any idea where i am :)
 ### 📊 Stats
 <img align="left" alt="Linux" style="padding-right:10px;" src="https://icongr.am/devicon/linux-original.svg?size=200&color=000000" />
 
-![mMicro-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mMicro-dev&show_icons=true&theme=transparent&title_color=3ffcfa&text_color=3ffc54&hide_border=true)
+![mMicro-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mMicro-dev&show_icons=true&icon_color=1155ba&theme=transparent&title_color=fff&text_color=fff&hide_border=true)
 
 <!-- ![mMicro-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mMicro-dev&show_icons=true&theme=onedark) -->
 
