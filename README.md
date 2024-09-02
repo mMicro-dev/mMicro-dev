@@ -1,6 +1,6 @@
-# 🏄‍♂️ mMicro-dev
+# <img align="center" alt="ie10" width="50px" style="padding-right:10px;" src="https://icongr.am/devicon/couchdb-original.svg" /> mMicro-dev
 
-**`Digital Craftsman (Developer/Hacker/Network manager)`**
+**`Coder (Developer/Hacker/Network manager)`**
 
 I just got here and i don't have any idea where i am :)
 
@@ -13,21 +13,28 @@ I just got here and i don't have any idea where i am :)
 
 ---
 
-### 🧰 Languages and Tools
+### 💻 Tech Stack
 
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/linux-original.svg?size=30&color=000000" />
+<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/vim-original.svg?size=30&color=currentColor" />
+<!-- <img align="left" alt="Redhat" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/redhat-original.svg?size=30&color=000000" /> -->
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/git-original.svg?size=30&color=currentColor" />
+<img align="left" alt="Debian" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/debian-original.svg?size=30&color=currentColor" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/css3-original.svg?size=30" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=ffdd00" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor" />
+<img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/nginx-original.svg?size=30&color=currentColor" />
 <br />
 
 #
 
+### 📊 Stats
+<img align="left" alt="Linux" style="padding-right:10px;" src="https://icongr.am/devicon/linux-original.svg?size=200&color=000000" />
+
+![mMicro-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mMicro-dev&show_icons=true&theme=gruvbox)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!--
@@ -40,18 +47,13 @@ I just got here and i don't have any idea where i am :)
 [![Java Data Types](https://ytcards.demolab.com/?id=SKS9UMVW5Mc&title=Java+Data+Types&lang=en&timestamp=1724414437&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=54 "Java Data Types")](https://www.youtube.com/watch?v=SKS9UMVW5Mc)
 
 me
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
---!>
+-->
 <!-- END YOUTUBE-CARDS -->
+<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
 
 
-#
 
-### 📊 Stats
-
-![mMicro-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mMicro-dev&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
 #
 <!--
